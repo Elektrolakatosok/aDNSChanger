@@ -1,0 +1,13 @@
+﻿A(z) „C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\bin\Debug\selfDNSservice.exe” szerelvény telepítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\bin\Debug\selfDNSservice.InstallLog
+   assemblypath = C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\bin\Debug\selfDNSservice.exe
+A szolgáltatás (SelfDNS) telepítése folyamatban van...
+A szolgáltatás (SelfDNS) telepítése sikeresen megtörtént.
+EventLog forrás (SelfDNS) létrehozása a következő naplóban: Application...
+A(z) „C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\bin\Debug\selfDNSservice.exe” szerelvény véglegesítése
+Az érintett paraméterek:
+   logtoconsole = 
+   logfile = C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\bin\Debug\selfDNSservice.InstallLog
+   assemblypath = C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\bin\Debug\selfDNSservice.exe

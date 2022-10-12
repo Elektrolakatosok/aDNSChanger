@@ -1,0 +1,10 @@
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\obj\Debug\selfDNSservice.csprojAssemblyReference.cache
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\obj\Debug\selfDNSservice.ProjectInstaller.resources
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\obj\Debug\selfDNSservice.Service1.resources
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\obj\Debug\selfDNSservice.csproj.GenerateResource.cache
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\obj\Debug\selfDNSservice.csproj.CoreCompileInputs.cache
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\bin\Debug\selfDNSservice.exe.config
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\bin\Debug\selfDNSservice.exe
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\bin\Debug\selfDNSservice.pdb
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\obj\Debug\selfDNSservice.exe
+C:\Users\Dragon\Documents\Save\VisualStudio\selfDNSservice\selfDNSservice\obj\Debug\selfDNSservice.pdb
